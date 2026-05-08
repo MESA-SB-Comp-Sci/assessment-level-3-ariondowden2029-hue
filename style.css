@@ -5,3 +5,38 @@
 }
 
 /* write all your rules below */
+
+
+h1{
+   background-color: pink;
+   border: 10px solid red;
+   margin: 45px;
+}
+
+.box-1{
+    background-color: aqua;
+    width: 100vw;
+    height: 30vh;
+    padding: 100px;
+}
+
+#my-box-2{
+    border: 10px solid pink;
+    background-color: yellow;
+    width: 50vw;
+    height: 20vh;
+    margin: 30px;
+}
+
+
+.p-tag{
+    color: purple;
+}
+
+#my-p-tag-1{
+    color: blue;
+}
+
+#my-p-tag-2{
+    color:green;
+}
